@@ -136,11 +136,10 @@ If you found this useful, you can support my work by donating crypto:
 
 | Coin       | Address |
 |------------|---------|
-| <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="BTC" width="20"/> **Bitcoin** | `bc1qepy6uzu6k5hgtvzeqw7nyzpn98dzq9chna8jgl` |
-| <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="20"/> **Solana** | `mmNe77AYbSRQRs54Db4Xuk3zoDY2gCNF8J4gPkCaKvF` |
-| <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png" alt="Litecoin" width="20"/> **Litecoin** | `ltc1qf5tjcfdvwf9py4yd9ss9hdn2q6v2c8lgjyeax0` |
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-orange?style=flat-square&logo=bitcoin) | `bc1qepy6uzu6k5hgtvzeqw7nyzpn98dzq9chna8jgl` |
+| ![Solana](https://img.shields.io/badge/Solana-SOL-purple?style=flat-square&logo=solana) | `mmNe77AYbSRQRs54Db4Xuk3zoDY2gCNF8J4gPkCaKvF` |
+| ![Litecoin](https://img.shields.io/badge/Litecoin-LTC-gray?style=flat-square&logo=litecoin) | `ltc1qf5tjcfdvwf9py4yd9ss9hdn2q6v2c8lgjyeax0` |
 
-> 🙏 Every satoshi helps! Thank you for your support!
 
 ---
 
